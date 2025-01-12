@@ -31,8 +31,12 @@
 - Model Training
 - Metrics
 
-- - **Programming Language:** Python
-- **Models and Libraries:** 
+ **Programming Language:** 
+ 
+ - Python
+ 
+ **Models and Libraries:** 
+ 
   - Numpy
  
   - ## Project Description

@@ -37,7 +37,8 @@
  
  **Models and Libraries:** 
  
-  - Numpy
+  - Model Types Used: Random Forest and RNN-LSTM
+  - Libraries: Numpy, Pandas, TensorFlow, PyTorch, SKLearn, MatPlotLib, PyAthena, JobLib, Seaborn, Pickle, Boto3, Math, Concurrent
  
   - ## Project Description
 

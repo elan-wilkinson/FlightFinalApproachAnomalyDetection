@@ -1,6 +1,6 @@
 # Flight Final Approach Anomaly Detection
 
-## Team 1 AAI-540: Machine Learning Operations
+## Team 4 AAI-590: Capstone Project
 
 **Project Title:** Flight Final Approach Anomaly Detection and Classification
 
